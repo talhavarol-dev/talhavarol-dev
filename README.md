@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tuğberk Can Özen</h1>
+<h3 align="center">Jr. iOS Developer | Self Learner</h3>
 
-<!--
-**talhavarol-dev/talhavarol-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="left">Languages</h3>
+<p align="left"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/talhavaroll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talhavaroll" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/talhavarol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talhavarol" height="30" width="40" /></a>
+
+
+<h3 align="left">About Me</h3>
+
+- 🌱 I’m currently learning **Swift**
+
+- 📝 I regularly write articles on medium [https://medium.com/@talhavarol](https://medium.com/@talhavarol)
+
+- 📫 How to reach me **talhavarool@gmail.com**
+
+- ⚡ Fun fact **Reading, Coding, Traveling**
+
+
+
+
