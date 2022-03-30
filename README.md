@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Reading, Coding, Traveling**
 
-- Alamofaire, Api, Liste-Detay, Firebase, SQLite, MVVM, MVC... Bir eğitim serisinden ne kadar öğrenilebilirse, bir tık fazlası kadar bilgim var.
+- Alamofaire, Api, Liste-Detay, Firebase, MVVM, MVC... Bir eğitim serisinden ne kadar öğrenilebilirse, bir tık fazlası kadar bilgim var.
 
 <h3 align="left">GitHub Profilim Hakkında!</h3>
 <p>Değerli TechLead ve IK Uzmanlarım... Repomu incelediğiniz taktirde sizlerin görmesini istediğim birkaç durum var. Bunlardan birincisi ve en önemlisi, benim Swift alanına duyduğum ilgi ve karşılığında verdiğim emektir.Evet basit projeler olabilir, lakin benim başlangıç seviyesi bir developer olduğumu lütfen gözünüzden kaçırmayın. Hayat hengamesi denen döngünün içerisinde, bana arta kalan tüm vaktimi burada göreceğiniz çalışmalar ile doldurmaya gayret gösteriyorum... Çalışkanım, azimliyim ve fazlasıyla da hırslıyım... İncelemeleriniz için teşekkürler :) İyi çalışmalar... <p>
