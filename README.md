@@ -27,7 +27,7 @@
 
 - Şuan da AppStore'da yayınlamak üzre, kendi uygulamamı geliştirmeye çalışıyorum.
 
-<p>Değerli TechLead ve IK Uzmanlarım... Repomu incelediğiniz taktirde sizlerin görmesini istediğim birkaç durum var. Bunlardan birincisi ve en önemlisi, benim Swift alanına duyduğum ilgi ve karşılığında verdiğim emektir.Evet basit projeler olabilir, lakin benim başlangıç seviyesi bir developer olduğumu lütfen gözünüzden kaçırmayın. Hayat hengamesi denen döngünün içerisinde, bana arta kalan tüm vaktimi burada göreceğiniz çalışmalar ile doldurmaya gayret gösteriyorum... Çalışkanım, azimliyim ve fazlasıyla da hırslıyım... İncelemeleriniz için teşekkürler :) İyi çalışmalar... <p>
+<p>BİZ BU YOLA BAŞ KOYDUK! <p>
 
 
 
