@@ -21,13 +21,12 @@
 
 - ⚡ Fun fact **Reading, Coding, Traveling**
 
-- Alamofaire, Api, Liste-Detay, Firebase, MVVM, MVC... Bir eğitim serisinden ne kadar öğrenilebilirse, bir tık fazlası kadar bilgim var.
+- Alamofaire, Api, Liste-Detay, Firebase, MVVM, MVC... I know more than what can be learned from a training series.
 
 <h3 align="left">GitHub Profilim Hakkında!</h3>
 
-- Şuan da AppStore'da yayınlamak üzre, kendi uygulamamı geliştirmeye çalışıyorum.
 
-<p>BİZ BU YOLA BAŞ KOYDUK! <p>
+
 
 
 
