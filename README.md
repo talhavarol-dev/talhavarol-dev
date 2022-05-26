@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Talha VAROL</h1>
-<h3 align="center">Jr. iOS Developer | Self Learner</h3>
+<h1 align="center">Hi, I'm Talha VAROL</h1>
+<h3 align="center">iOS Developer | Swift Akademi</h3>
 
 
 <h3 align="left">Languages</h3>
@@ -23,7 +23,7 @@
 
 - Alamofaire, Api, Liste-Detay, Firebase, MVVM, MVC... I know more than what can be learned from a training series.
 
-<h3 align="left">GitHub Profilim Hakkında!</h3>
+
 
 
 
