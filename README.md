@@ -21,7 +21,6 @@
 
 - ⚡ Fun fact **Reading, Coding, Traveling**
 
-- Alamofaire, Api, Liste-Detay, Firebase, MVVM, MVC... I know more than what can be learned from a training series.
 
 
 
